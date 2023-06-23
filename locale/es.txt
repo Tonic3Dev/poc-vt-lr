@@ -1,0 +1,13 @@
+#: locale=es
+
+## Media
+
+### Título
+panorama_EFD9C97D_E347_D666_41EB_21E864FB581F.label = image (48)
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = poc-vt
